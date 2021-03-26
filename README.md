@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/alexandre-souza-b18a1936/" target="_blank" rel="noopener noreferrer"><img alt="Made by" src="https://img.shields.io/badge/made%20by-Alexandre%20Soares-%23FF9000"></a>
+	<a href="https://www.linkedin.com/in/jason-wang-06b478209/" target="_blank" rel="noopener noreferrer"><span>"Made by Jason"</span></a>
 </p>
 
 </div>
